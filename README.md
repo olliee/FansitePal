@@ -1,4 +1,4 @@
-![FansitePal-Logo](http://www.tashload.com/Uploader/uploads//TXPwGsl.png) \s
+![FansitePal-Logo](http://www.tashload.com/Uploader/uploads//TXPwGsl.png) \s\s
 A unique website management system for Habbo Fansites.
 
 ----------
