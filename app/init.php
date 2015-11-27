@@ -8,7 +8,7 @@ require_once INC_ROOT . '/vendor/autoload.php';
 require_once "core/App.php";
 require_once "core/Controller.php";
 require_once "core/View.php";
-
+require_once "database.php";
 //Root URL
 define('HTTP_ROOT',
     'http://'.$_SERVER['HTTP_HOST'].
